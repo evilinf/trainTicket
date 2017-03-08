@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+body,td,th{
+	font-size:18px;
+}
+body{
+	background-color:#ffffff;
+}
+#leftmain{
+	width:220px;
+	height:600px;
+	margin-top:30px;
+}
+/*#leftmain button{
+	width:200px;
+	height:40px;
+	backgrond-color:#0000ff;
+	margin-bottom:5px;
+}*/
+ul{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+ul li{
+	width:200px;
+	height:40px;
+	margin-left:10px;
+	background-color:#ffffff;
+}
+a{
+	color:#aaaaff;
+	text-decoration:none;
+}
+a:hover{
+	color:#000000;
+}

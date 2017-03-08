@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+body{
+	margin:0px;
+	padding:0px;
+	width:*;
+	height:*;
+	background-color:#002779;
+	font-family:"宋体";
+	font_size:12px;
+}
+#content{
+	margin:50px 50px 50px 50px;
+}
+#title{
+	font-size:24px;
+}
+#register{
+	padding-top:50px;
+	padding-left:70px;
+	color:#ffffff;
+}
+#register #register_content label,input,select,font{
+	margin-bottom:5px;
+}
+#register #register_content select{
+	width:147px;
+	height:23px;
+}
+#register_sure{
+	width:220px;
+	height:30px;
+	margin-top:20px;
+	margin-left:10px;
+}
+#another{
+	margin-left:800px;
+	margin-top:50px;
+}
+#another a{
+	color:#ffffff;
+	text-decoration:none;
+}
+#another a:hover{
+	color:#aaaaff;
+}

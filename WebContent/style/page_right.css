@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+body{
+	margin-left:0px;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	background-color:#ffffff;
+}
+#mainBg{
+	width:764px;
+	height:470px;
+	margin-bottom:20px;
+	padding-top:10px;
+}
+
+#menu{
+	width:720px;
+	height:25px;
+	line-height:25px;
+	color:#144882;
+	border:1px solid #c4e7fb;
+	margin-bottom:10px;
+}
+#content{
+	margin-top:100px;
+	margin-left:100px;
+	font-family:"宋体";
+}
+#content label,input,select,font{
+	margin-bottom:5px;
+}
+#content label{
+	text-align:right;width:100px;
+}
+#mainBg table tr th,td{
+	width:100px;
+	height:30px;
+	align:center;
+}

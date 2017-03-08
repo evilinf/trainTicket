@@ -1,0 +1,90 @@
+@CHARSET "UTF-8";
+body{
+	margin:0px;
+	padding:0px;
+	width:*;
+	height:*;
+	background-color:#002779;
+	font-family:"宋体";
+	font_size:12px;
+}
+#enter{
+	margin:150px 0 0 250px;
+	width:500px;
+	height:300px;
+	border_radius:10px;
+	border:#ccc 1px solid;
+	float:left;
+}
+#enter #title{
+	width:500px;
+	height:120px;
+	background:#043ba2;
+	border-radius:10px 10px 0 0;
+}
+#enter #title #tp{
+	padding:20px 0 0 50px;
+	float:left;
+}
+#enter #title #tw{
+	margin-top:65px;
+	float:left;
+	font_size:56px;
+	color:#FFF;
+	font-family:Arial,Helvetica,sans-serif;
+	font-weight:bolder;
+}
+#enter #title #text{
+	margin:50px 0 0 20px;
+	font-family:"黑体";
+	font-size:30px;
+	float:left;
+	color:#FC3;
+}
+#enter #line{
+	width:500px;
+	height:10px;
+	background:#ccc;
+}
+#enter #lg{
+	width:500px;
+	height:170px;
+	background-color:#FFFFFF;
+	border-radius:0 0 10px 10px;
+}
+#enter #lg form{
+	width:500px;
+	float:left;
+}
+#enter #lg form #left{
+	padding:0 0 0 50px;
+	line-height:3em;
+	float:left;
+}
+#enter #lg form #left lable{
+	width:64px;
+	height:16px;
+}
+#enter #lg form #right{
+	padding:10px 0 0 50px;
+	float:left;
+}
+#enter #lg form #yz{
+	border:1px #CCCCCC solid;
+	background-color:#FFCC99;
+	padding:3px;
+	font-family:"迷你简剪纸";
+}
+#enter #lg form #an{
+	width:100px;
+	height:40px;
+	border:#0099ff 1px solid;
+	border_radius:5px;
+	background:#043ba2;
+	text_align:center;
+	font-size:14px;
+	font-weight:bolder;
+	line-height:2.5em;
+	color:#FFF;
+	margin-top:80px;
+}
